@@ -1,0 +1,16 @@
+{
+  "name": "infra-entrytask",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/fc5y/temp-be.git",
+  "author": "Nhan <ngohuynhnhan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.4.2"
+  }
+}
